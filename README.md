@@ -10,7 +10,7 @@
 
 > Aguardando ansiosa por uma oportunidade de trabalho como dev júnior!!
 
-
+<strong> My Stats </strong>
 
 ![Marlene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marlene&show_icons=true&theme=tokyonight)
 
