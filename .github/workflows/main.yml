@@ -1,4 +1,4 @@
-name : Gnerate Datas
+name : Generate Datas
 
 on :
   schedule : # executar a cada 12 horas
