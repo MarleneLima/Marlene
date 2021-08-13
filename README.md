@@ -1,3 +1,5 @@
+![Welcome message](/https://github.com/MarleneLima/MarleneLima/blob/main/ML%20(1).png?raw=true)
+
 <!-- welcome message -->
 <h2>Hello!! I am Marlene de Lima. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
