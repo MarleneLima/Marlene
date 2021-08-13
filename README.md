@@ -1,5 +1,3 @@
-![Banner](/assets/banner.gif)
-
 <!-- welcome message -->
 <h2>Hello!! I am Marlene de Lima. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
@@ -26,7 +24,7 @@
 ![Marlene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marlene&show_icons=true&theme=tokyonight)
 
 
-  ![Snake animation](htpps://github.com/MarleneLima/MarleneLima/blob/output/github-contribution-grid-snake.svg)   
+   
 
 
 
