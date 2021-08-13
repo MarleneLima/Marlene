@@ -1,12 +1,15 @@
-## Olá! Sou a Marlene! 👋
+## Hello!!!👋
 
-> Advogada em transição de carreira
+> Meu nome é <strong>Marlene</strong>, tenho 47 anos e sou de São Paulo/capital.
 
-> Atualmente estudando JavaScript, HTML , CSS e para compreender melhor o usuário, UXDesign
+> Sou advogada em transição de carreira.
 
-> Cursando Programação de IAs Conversacionais para chatbots
+> Atualmente estudando JavaScript, HTML , CSS e para compreender melhor o usuário, UXDesign.
+
+> Cursando Programação de IAs Conversacionais para chatbots.
 
 > Aguardando ansiosa por uma oportunidade de trabalho como dev júnior!!
+
 
 <strong>Status</strong> 
 
