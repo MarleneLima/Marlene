@@ -27,7 +27,7 @@
 ## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> My Stats:
 
 
-![Marlene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marlene&show_icons=true&theme=tokyonight)
+![Marlene's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarleneLima&show_icons=true&theme=tokyonight)
 
 ## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> Languages and Tools:
 
