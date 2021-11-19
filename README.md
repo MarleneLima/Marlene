@@ -14,7 +14,7 @@
 
 > Cursando Programação de IAs Conversacionais para chatbots.
 
-> Aguardando ansiosa por uma oportunidade de trabalho como dev júnior!!
+> Aguardando ansiosa por uma oportunidade de trabalho!!  
 
 
 
