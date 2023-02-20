@@ -1,20 +1,20 @@
 ![Welcome message](https://github.com/MarleneLima/MarleneLima/blob/main/ML%20(1).png?raw=true)
 
 <!-- welcome message -->
-<h2>I am Marlene de Lima. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+<h2>I am Marlene Lima. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
 
 
 
-> Tenho 47 anos e moro na cidade de São Paulo.
+> Tenho 48 anos e moro na cidade de São Paulo.
 
-> Sou advogada em transição de carreira.
+> Sou Quality Assurance.
 
 > Atualmente estudando JavaScript, HTML , CSS e para compreender melhor o usuário, UXDesign.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 > Cursando Programação de IAs Conversacionais para chatbots.
 
-> Aguardando ansiosa por uma oportunidade de trabalho!!  
+> Trabalhei por 10 anos como Advogada.
 
 
 
